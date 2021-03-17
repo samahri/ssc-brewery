@@ -127,6 +127,13 @@
             <artifactId>jquery-ui</artifactId>
             <version>${webjars-jquery-ui.version}</version>
         </dependency>
+
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-security</artifactId>
+            <version>2.3.9.RELEASE</version>
+        </dependency>
+
         <dependency>
             <groupId>org.webjars</groupId>
             <artifactId>bootstrap</artifactId>
